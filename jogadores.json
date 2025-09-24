@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "nome": "Alisson Becker",
+    "posicao": "Goleiro",
+    "time": "Liverpool",
+    "nacionalidade": "Brasil",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/56/14/95614_alisson_becker_20250815201322.png"
+  },
+  {
+    "id": 2,
+    "nome": "Wesley",
+    "posicao": "Lateral Direito",
+    "time": "Roma",
+    "nacionalidade": "Brasil",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/26/71/742671_wesley_franca_20250905235600.png"
+  },
+  {
+    "id": 3,
+    "nome": "Marquinhos",
+    "posicao": "Zagueiro",
+    "time": "Paris Saint-Germain",
+    "nacionalidade": "Brasil",
+    "imagem": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/11/marquinhos-psg-e1699981882143.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Éder Militão",
+    "posicao": "Zagueiro",
+    "time": "Real Madrid",
+    "nacionalidade": "Brasil",
+    "imagem": "https://s2.glbimg.com/eL8gQxWQ0n80f5x0Wd2I2vrx18Y=/0x0:3543x2362/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc822896673f488aa253bbcb03c80ec5/internal_photos/bs/2023/u/t/eCgXUFTzOe5P6sSkP92Q/gettyimages-1249912061.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Wendell",
+    "posicao": "Lateral Esquerdo",
+    "time": "FC Porto",
+    "nacionalidade": "Brasil",
+    "imagem": "https://s2.glbimg.com/L12sK1MNe3m2j2B9tT_yS4v9f3M=/0x0:3500x2333/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc822896673f488aa253bbcb03c80ec5/internal_photos/bs/2024/I/M/Gq0bJBR1C3iFBTfK8vBQ/gettyimages-2051644781.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Casemiro",
+    "posicao": "Meio-campista",
+    "time": "Manchester United",
+    "nacionalidade": "Brasil",
+    "imagem": "https://s2.glbimg.com/S-P4JvQ8D-Q3u5M44jY812P5w-c=/0x0:3500x2333/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc822896673f488aa253bbcb03c80ec5/internal_photos/bs/2024/7/W/w5tNq0SoGfE08zY55zHQ/gettyimages-1808608688.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Bruno Guimarães",
+    "posicao": "Meio-campista",
+    "time": "Newcastle United",
+    "nacionalidade": "Brasil",
+    "imagem": "https://mantosdofutebol.com.br/wp-content/uploads/2023/11/Bruno-Guimaraes-Newcastle-1-1.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Lucas Paquetá",
+    "posicao": "Meio-campista",
+    "time": "West Ham United",
+    "nacionalidade": "Brasil",
+    "imagem": "https://s2.glbimg.com/XU7qT0h98pYyj-S8Lh-z-fXlOQk=/0x0:3500x2333/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc822896673f488aa253bbcb03c80ec5/internal_photos/bs/2024/f/W/b8H84iQbGJ57kC8sC70Q/gettyimages-2052737604.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Raphinha",
+    "posicao": "Atacante",
+    "time": "FC Barcelona",
+    "nacionalidade": "Brasil",
+    "imagem": "https://s.rfi.fr/media/display/c639bb04-1065-11ef-a192-005056bf30b7/w:980/p:16x9/2024-05-13T195456Z_1012975929_UP1EK5D1IF578_RTRMADP_3_SOCCER-SPAIN-FCB-RSO-REPORT.webp"
+  },
+  {
+    "id": 10,
+    "nome": "Rodrygo",
+    "posicao": "Atacante",
+    "time": "Real Madrid",
+    "nacionalidade": "Brasil",
+    "imagem": "https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/pc3bmsy55f52ufsozem9"
+  },
+  {
+    "id": 11,
+    "nome": "Vinícius Júnior",
+    "posicao": "Atacante",
+    "time": "Real Madrid",
+    "nacionalidade": "Brasil",
+    "imagem": "https://s2.glbimg.com/2A1r7I92e-33i2u_spnuz81W7sA=/0x0:3494x2329/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc822896673f488aa253bbcb03c80ec5/internal_photos/bs/2024/m/B/3l8vMhT2eG9wLxcBwAdQ/gettyimages-2154699049.jpg"
+  }
+]

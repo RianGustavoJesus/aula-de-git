@@ -1,16 +1,29 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Projeto de Filtro</title>
     <link rel="stylesheet" href="style.css">
-    <title>Aprendendo Git</title>
 </head>
-
 <body>
-    <h1>Olá mundo do Git e Github!</h1>
+
+    <div class="buscar">
+        <h1>Seleção Brasileira Ideal Titular</h1>
+        <h2>Para a Próxima Copa do Mundo 2026</h2>
+        
+        <div class="controles">
+            <input onkeyup="filtrar()" id="input-busca" type="text" placeholder="Buscar por nome...">
+            
+            <select onchange="filtrar()" id="filtro-posicao">
+                <option value="todas">Todas as Posições</option>
+                </select>
+        </div>
+
+        <ul id="listaJogadores">
+            </ul>
+    </div>
+
     <script src="script.js"></script>
 </body>
-
 </html>
